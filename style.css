@@ -1,0 +1,22 @@
+body {
+	background-color: #f3f3f3;
+}
+nav {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	border-radius: 5px;
+	width: 90%;
+	box-shadow: 0px 2px 0px 3px #00000040;
+	box-shadow: 7px 3px 3px black;
+}
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:400px;
+}
